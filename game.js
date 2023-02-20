@@ -10,6 +10,8 @@ const colors = {
   foreground: "#ECEFF4",
 };
 
+let stuff
+
 // Declare sprite variables
 let walls;
 let player, enemies, food, friends;
