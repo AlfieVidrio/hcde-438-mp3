@@ -1,1 +1,3 @@
-# hcde-438-mp3
+# Glob Game
+
+Play it [here](http://twigg.gg/example-game/)!
